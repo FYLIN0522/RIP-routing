@@ -1,0 +1,3 @@
+router-id 2
+input-ports 6102,6302
+outputs 6201-1-1,6203-3-3
